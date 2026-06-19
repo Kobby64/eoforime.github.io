@@ -2,27 +2,27 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Ernest Ofori-Mensah
+  given: Ernest
+  family: Ofori-Mensah
   alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronunciation: oh-FOR-ee MEN-sah  # Example: Wáng Wěi
+  pronouns:'' #he/him
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Ph.D. Candidate
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  bio: |
+  Ernest Ofori-Mensah is a Ph.D. student, researcher, and instructor at Purdue University. His research focuses on cybersecurity, 
+  machine learning, deep learning, big data, and responsible AI. His work examines intelligent systems for network anomaly detection,
+  AI governance and ethical use of technology.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Purdue University
+    url: https://polytechnic.purdue.edu/
 
 links:
   - icon: at-symbol
@@ -40,16 +40,16 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - AI Privacy and Security
+  - AI Ethics & Governance
+  - Big Data & Analytics
+  - Deep Learning Models
 
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+    institution: Purdue University
+    start: 2022-09-14
+    end: 2027-05-30
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
